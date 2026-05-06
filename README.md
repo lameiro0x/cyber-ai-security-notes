@@ -248,10 +248,10 @@ This repository now includes a dedicated **OWASP Top 10 for LLM Applications** t
 
 The notes connect each OWASP category with attack thinking, defensive controls, audit questions and Purple Team validation ideas:
 
-- 🧭 [OWASP LLM Overview](OWASP-LLM-Top-10/00-OWASP-LLM-Overview.md)
-- 🧪 [OWASP LLM Audit Checklist](OWASP-LLM-Top-10/OWASP-LLM-Audit-Checklist.md)
-- 🟣 [OWASP LLM Purple Team Playbook](OWASP-LLM-Top-10/OWASP-LLM-Purple-Team-Playbook.md)
-- 💬 [OWASP LLM Interview Notes](OWASP-LLM-Top-10/OWASP-LLM-Interview-Notes.md)
+- 🧭 [OWASP LLM Overview](<./OWASP-LLM-Top-10/00-OWASP-LLM-Overview.md>)
+- 🧪 [OWASP LLM Audit Checklist](<./OWASP-LLM-Top-10/OWASP-LLM-Audit-Checklist.md>)
+- 🟣 [OWASP LLM Purple Team Playbook](<./OWASP-LLM-Top-10/OWASP-LLM-Purple-Team-Playbook.md>)
+- 💬 [OWASP LLM Interview Notes](<./OWASP-LLM-Top-10/OWASP-LLM-Interview-Notes.md>)
 
 These notes are meant to make the OWASP Top 10 more useful in real AI Security work: testing LLM apps, reviewing risky flows, mapping controls and explaining impact clearly.
 
