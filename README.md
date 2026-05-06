@@ -23,6 +23,14 @@ The objective is to build a structured and practical knowledge base that connect
 
 ---
 
+## ✍️ Blog posts
+
+Some of these notes will also be adapted into more polished and practical blog posts at:
+
+➡️ [blog.lameiro0x.com](https://blog.lameiro0x.com)
+
+---
+
 ## 🎯 Main objective
 
 The purpose of this repository is to combine my cybersecurity background with a growing specialization in **AI Security**.
@@ -179,38 +187,7 @@ Although Microsoft resources can sometimes be ecosystem-oriented, the goal here 
 
 ---
 
-### 🔜 Phase 3 — OWASP Top 10 for LLM Applications
-
-Status: **Planned**
-
-This will be one of the most important parts of the roadmap.
-
-OWASP is especially valuable because it is:
-
-- Vendor-neutral
-- Security-focused
-- Recognized by the cybersecurity community
-- Directly connected with real LLM application risks
-- Very useful for purple team methodology
-
-Expected topics:
-
-- Prompt Injection
-- Sensitive Information Disclosure
-- Supply Chain Vulnerabilities
-- Data and Model Poisoning
-- Improper Output Handling
-- Excessive Agency
-- System Prompt Leakage
-- Vector and Embedding Weaknesses
-- Misinformation
-- Unbounded Consumption
-
-This phase will be used to build practical checklists, risk mappings and defensive controls.
-
----
-
-### 🔜 Phase 4 — Linux Foundation: AI Risk Management
+### 🔜 Phase 3 — Linux Foundation: AI Risk Management
 
 Status: **Planned**
 
@@ -238,7 +215,7 @@ This section may be less technical, but it is important to understand how AI Sec
 
 ---
 
-### 🔜 Phase 5 — Giskard AI Security Tutorials
+### 🔜 Phase 4 — Giskard AI Security Tutorials
 
 Status: **Planned**
 
@@ -424,7 +401,7 @@ It is not intended to promote unauthorized exploitation, abuse of AI systems or 
 
 ## 👤 Author
 
-Created by **lameiro0x**
+Created by **[lameiro0x](https://github.com/lameiro0x)**
 
 Focus areas:
 
