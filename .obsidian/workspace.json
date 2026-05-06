@@ -4,55 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62324e93d3f8be78",
+        "id": "087b6f8d37646117",
         "type": "tabs",
         "children": [
           {
-            "id": "886ebf87a288650c",
+            "id": "df867f63e71d8045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMOps/Comandos/Comandos Prediction Prompts and Safety.md",
+                "file": "Red Teaming LLM Applications/1. Overview of LLM Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Prediction Prompts and Safety"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d87b9f3bd88d2190",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94d8dc827d8b54ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLMOps/4. Prediction, Prompts, Safety.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Prediction, Prompts, Safety"
-            }
-          },
-          {
-            "id": "a202cf94072bfe15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLMOps/2. Data Preparation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Data Preparation"
+              "title": "1. Overview of LLM Vulnerabilities"
             }
           }
         ]
@@ -112,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bdebf4ebfeba4025",
@@ -218,21 +183,39 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "94d8dc827d8b54ef",
+  "active": "df867f63e71d8045",
   "lastOpenFiles": [
+    "Red Teaming LLM Applications/2. Red Teaming LLMs.md",
+    "imagenes cursos.md",
+    "images/Pasted image 20260506201621.png",
+    "images/Pasted image 20260506195741.png",
+    "images/Pasted image 20260506171946.png",
+    "images/Pasted image 20260506171705.png",
+    "images/Pasted image 20260506171444.png",
+    "images/Pasted image 20260506171120.png",
+    "images/Pasted image 20260506171045.png",
+    "OWASP-LLM-Top-10/OWASP-LLM-Purple-Team-Playbook.md",
+    "OWASP-LLM-Top-10/09-Misinformation.md",
+    "OWASP-LLM-Top-10/01-Prompt-Injection.md",
+    "OWASP-LLM-Top-10/00-OWASP-LLM-Overview.md",
     "LLMOps/Comandos/Comandos Prediction Prompts and Safety.md",
     "LLMOps/4. Prediction, Prompts, Safety.md",
+    "OWASP-LLM-Top-10/10-Unbounded-Consumption.md",
+    "OWASP-LLM-Top-10/08-Vector-and-Embedding-Weaknesses.md",
+    "OWASP-LLM-Top-10/07-System-Prompt-Leakage.md",
+    "OWASP-LLM-Top-10/06-Excessive-Agency.md",
+    "OWASP-LLM-Top-10/05-Improper-Output-Handling.md",
+    "OWASP-LLM-Top-10/04-Data-and-Model-Poisoning.md",
+    "OWASP-LLM-Top-10/03-Supply-Chain.md",
+    "OWASP-LLM-Top-10/02-Sensitive-Information-Disclosure.md",
+    "OWASP-LLM-Top-10/OWASP-LLM-Interview-Notes.md",
+    "OWASP-LLM-Top-10/OWASP-LLM-Audit-Checklist.md",
+    "OWASP-LLM-Top-10/README.md",
+    "OWASP-LLM-Top-10",
     "images/Pasted image 20260506114422.png",
     "images/Pasted image 20260506114039.png",
     "images/Pasted image 20260506113917.png",
-    "images/Pasted image 20260506113752.png",
-    "images/Pasted image 20260506113514.png",
-    "images/Pasted image 20260506113347.png",
     "LLMOps/2. Data Preparation.md",
-    "images/Pasted image 20260506113025.png",
-    "images/Pasted image 20260506112427.png",
-    "images/Pasted image 20260506111712.png",
-    "images/Pasted image 20260506111617.png",
     "Safe and reliable AI via guardrails/3. Guardrails.md",
     "images"
   ]
